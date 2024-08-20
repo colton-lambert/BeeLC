@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/FirstPerson/Blueprints/BP_FlowerTest.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/Kobo_ForestVillage/Meshes/SM-Flower-06.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/Kobo_ForestVillage/Materials/M-Instances/MI-Flower-06.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/Kobo_ForestVillage/Materials/M-Particles/MI-AmbientDust-01.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/Kobo_ForestVillage/Materials/M-Particles/MI-AmbientDust-02.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/MK/MC860IGZ6YFX85QCOF0TGG.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/FirstPerson/Blueprints/BPI_Interact.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/Kobo_ForestVillage/Materials/M-Instances/MI-Flower-03.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/9L/7VS7V8HQU6J00EZ9UQ54KJ.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H4/MFWEJ6Z73TM58ECY8COE2E.uasset",
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/OO/3OTRL66O3GVSGKCC9FA2DU.uasset"
+			]
+		}
+	]
+}
