@@ -9,7 +9,11 @@
 				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/BT_Bee.uasset",
 				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/BB_Bee.uasset",
 				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/WP_MainMenu.uasset",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/UI/BeeLC_Logo.uasset"
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/UI/BeeLC_Logo.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/BP_AICharacter.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Maps/Level_1.umap",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/9L/7VS7V8HQU6J00EZ9UQ54KJ.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
