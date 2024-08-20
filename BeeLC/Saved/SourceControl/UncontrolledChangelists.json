@@ -7,7 +7,9 @@
 			"files": [
 				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/BT_Bee.uasset",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/BB_Bee.uasset"
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/BB_Bee.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/WP_MainMenu.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/UI/BeeLC_Logo.uasset"
 			]
 		}
 	]
