@@ -72,3 +72,23 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BeeLC/Intermediate/CachedAssetRegistry_0.bin
+BeeLC/Saved/AutoScreenshot.png
+BeeLC/Saved/Config/CrashReportClient/UECC-Windows-4623CB0A40A2CEC7D1B136B4E652405B/CrashReportClient.ini
+BeeLC/Saved/Config/CrashReportClient/UECC-Windows-6FB901354E265E9716A6C7B98AD40D68/CrashReportClient.ini
+BeeLC/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+BeeLC/Saved/Crashes/UECC-Windows-4623CB0A40A2CEC7D1B136B4E652405B_0000/BeeLC.log
+BeeLC/Saved/Crashes/UECC-Windows-4623CB0A40A2CEC7D1B136B4E652405B_0000/CrashContext.runtime-xml
+BeeLC/Saved/Crashes/UECC-Windows-4623CB0A40A2CEC7D1B136B4E652405B_0000/CrashReportClient.ini
+BeeLC/Saved/Logs/BeeLC-backup-2024.08.18-15.37.47.log
+BeeLC/Saved/Logs/BeeLC-backup-2024.08.21-03.42.38.log
+BeeLC/Saved/Logs/BeeLC-backup-2024.08.21-04.07.36.log
+BeeLC/Saved/Logs/BeeLC.log
+BeeLC/Intermediate/CachedAssetRegistry_0.bin
+BeeLC/Saved/AutoScreenshot.png
+BeeLC/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+BeeLC/Saved/Logs/BeeLC-backup-2024.08.18-15.37.47.log
+BeeLC/Saved/Logs/BeeLC.log
+*.bin
+*.ini
+*.log
