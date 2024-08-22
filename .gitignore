@@ -92,3 +92,7 @@ BeeLC/Saved/Logs/BeeLC.log
 *.bin
 *.ini
 *.log
+BeeLC/Saved/Logs/BeeLC.log
+BeeLC/Saved/Logs/BeeLC_2.log
+BeeLC/Saved/Config/WindowsEditor/Engine.ini
+*.ini

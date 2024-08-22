@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/BT_Bee.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/BB_Bee.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/WP_MainMenu.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/UI/BeeLC_Logo.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/BP_AICharacter.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Maps/Level_1.umap",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/9L/7VS7V8HQU6J00EZ9UQ54KJ.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/Kobo_ForestVillage/Textures/T-Landscape/T-A-Landscape-03_Mat.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Maps/Level_1_sharedassets/1_LayerInfo.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Maps/Level_1_sharedassets/2_LayerInfo.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Maps/Level_1_sharedassets/3_LayerInfo.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Maps/Level_1_sharedassets/4_LayerInfo.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/Kobo_ForestVillage/Textures/T-Landscape/NewLandscapeLayerInfoObject.uasset",
+				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/Kobo_ForestVillage/Textures/T-Landscape/T-A-Landscape-04_Mat.uasset",
 				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/Kobo_ForestVillage/Materials/M-Instances/MI-Tree-01.uasset",
 				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/FirstPerson/M_Hive.uasset",
 				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/FirstPerson/M_HiveInside.uasset",
@@ -58,16 +74,7 @@
 				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/LL/3H9TUUPUL7GK40GCSM3KMM.uasset",
 				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/H8/NU4VOL6F891BP7JY0HIIAB.uasset",
 				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/37/6OAR12PJ2Y76PDT5HQNY6E.uasset",
-				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/BT_Bee.uasset",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/BB_Bee.uasset",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/WP_MainMenu.uasset",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/UI/BeeLC_Logo.uasset",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/BP_AICharacter.uasset",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Maps/Level_1.umap",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/9L/7VS7V8HQU6J00EZ9UQ54KJ.uasset",
-				"D:/Repo/QueenBee/BeeLC/BeeLC/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/Fae/Documents/GitHub/BeeLC/BeeLC/Content/FirstPerson/Maps/FirstPersonMap.umap"
 			]
 		}
 	]
